@@ -12,6 +12,8 @@ COPY . .
 # 构建项目
 RUN npm run build
 
+ENV NODE_ENV=production
+
 # 暴露端口
 EXPOSE 3000
 
