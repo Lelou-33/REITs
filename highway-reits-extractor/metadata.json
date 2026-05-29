@@ -1,8 +1,0 @@
-{
-  "name": "Highway REITs Extractor",
-  "description": "Extract monthly operations data from SSE Highway REITs PDF announcements using AI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
